@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mavenwebappchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-26T03:18:16.545113775Z"
+    description: A Helm chart for Kubernetes
+    digest: 2c1f3b712a57ae1d784217ce4652374dade2cfee920da4220d3e6ee3d73d10e5
+    name: mavenwebappchart
+    type: application
+    urls:
+    - https://kmounika11.github.io/kmhelmrepo/mavenwebappchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-26T03:18:16.543773457Z"
